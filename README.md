@@ -9,7 +9,7 @@ MailFlowCheck is a Windows PowerShell-based GUI tool designed to troubleshoot SM
 - **Voicemail servers**
 - **Mail applications**
 - **Custom servers that send email via SMTP on port 25**
-- **You Could use it to test Scan to Email,But Only If you have the machine you are running this Network subnet allowed for port 25**
+- **You can use it to test Scan to Email, but only if the machine you’re running this on is on a network subnet with port 25 allowed for outbound access.**
 
 With this tool, you can easily:
 
